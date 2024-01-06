@@ -1,0 +1,28 @@
+.fon{
+    width: 500px;
+    height: 500px;
+    border: 2px solid #0083D0;
+    background-image:url('./rasmlar/run.gif');
+    background-size: contain;
+    background-repeat: repeat-y;
+    background-repeat:no-repeat;
+ 
+}
+.fon2{
+    width: 1000px;
+    height: 500px;
+    background-image: url('rasmlar/topleft.png');
+    background-repeat:repeat-y;
+background-image: url('rasmlar/topright.png');
+
+ 
+ background-repeat:repeat-y;
+}
+.a3{
+    width: 1000px;
+    height: 500px;
+    background-image: url('rasmlar/bottomleft.png');
+    background-repeat: repeat-y;
+    background-image: url('rasmlar/bottomright.png');
+    background-repeat: repeat-x;
+}
